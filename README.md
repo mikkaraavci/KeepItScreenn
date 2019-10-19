@@ -10,27 +10,27 @@
 
 <p>
   
-<a href="https://github.com/mikkaraavci/GameOver/blob/master/PNG/GameOverEnter.PNG" target="_blank">
-<img src="https://github.com/mikkaraavci/GameOver/blob/master/PNG/GameOverEnter.PNG" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/GamePlay.JPGk">
+<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/GamePlay.JPG"></a>
   
 
-<a href="https://github.com/mikkaraavci/GameOver/blob/master/PNG/GameOverPlaying.PNG" target="_blank">
-<img src="https://github.com/mikkaraavci/GameOver/blob/master/PNG/GameOverPlaying.PNG" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/GameStart.JPG">
+<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/GameStart.JPG"></a>
 
-<a href="https://github.com/mikkaraavci/GameOver/blob/master/PNG/GameOver.PNG" target="_blank">
-<img src="https://github.com/mikkaraavci/GameOver/blob/master/PNG/GameOver.PNG" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl1.JPG">
+<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl1.JPG></a>
 
-<a href="https://github.com/mikkaraavci/GameOver/blob/master/PNG/GameOver.PNG" target="_blank">
-<img src="https://github.com/mikkaraavci/GameOver/blob/master/PNG/GameOver.PNG" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl2.JPG">
+<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl2.JPG"></a>
 
-<a href="https://github.com/mikkaraavci/GameOver/blob/master/PNG/GameOver.PNG" target="_blank">
-<img src="https://github.com/mikkaraavci/GameOver/blob/master/PNG/GameOver.PNG" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl3.JPG">
+<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl3.JPG"></a>
 
-<a href="https://github.com/mikkaraavci/GameOver/blob/master/PNG/GameOver.PNG" target="_blank">
-<img src="https://github.com/mikkaraavci/GameOver/blob/master/PNG/GameOver.PNG" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl4.JPG">
+<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl4.JPG"></a>
 
-<a href="https://github.com/mikkaraavci/GameOver/blob/master/PNG/GameOver.PNG" target="_blank">
-<img src="https://github.com/mikkaraavci/GameOver/blob/master/PNG/GameOver.PNG" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl5.JPG">
+<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl5.JPG"></a>
   
 
   
