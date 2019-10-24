@@ -3,7 +3,7 @@
 <p>Enjoyable Hyper-Casual Game<p>
 <p>5 Level Design <p>
 <p>Good Game Mechanic <p>
-<p> Good animation  <p>
+<p> Game Animation  <p>
 
   
 
