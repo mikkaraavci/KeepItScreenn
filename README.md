@@ -4,7 +4,7 @@
 <p> Smart Game Mechanics <p>
 <p> Animation <p>
 <p> Using Gesture Mod <p>
-<p> Mobile Game Design <p>
+
   
 
 # Project Display Image
