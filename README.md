@@ -1,6 +1,7 @@
 # KeepItScreen(GameMaker Studio2)
 <p> Enjoyable Hyper-Casual Game<p>
 <p> 5 Level Design <p>
+<p> Smart Game Mechanics <p>
 <p> Animation <p>
 <p> Using Gesture Mod <p>
 <p> Mobile Game Design <p>
