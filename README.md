@@ -12,7 +12,7 @@
 <p>
   
 <a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/GamePlay.jpeg">
-<img src="hhttps://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/GamePlay.jpeg"></a>
+<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/GamePlay.jpeg"></a>
   
 
 <a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/GameStart.jpg">
