@@ -11,27 +11,27 @@
 
 <p>
   
-<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/GamePlay.JPGk">
-<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/GamePlay.JPG"></a>
+<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/GamePlay.jpeg">
+<img src="hhttps://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/GamePlay.jpeg"></a>
   
 
-<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/GameStart.JPG">
-<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/GameStart.JPG"></a>
+<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/GameStart.jpg">
+<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/GameStart.jpg"></a>
 
-<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl1.JPG">
-<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl1.JPG></a>
+<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl1.jpg">
+<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl1.jpg"></a>
 
-<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl2.JPG">
-<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl2.JPG"></a>
+<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl2.jpg">
+<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl2.jpg"></a>
 
-<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl3.JPG">
-<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl3.JPG"></a>
+<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl3.jpg">
+<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl3.jpg"></a>
 
-<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl4.JPG">
-<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl4.JPG"></a>
+<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl4.jpg">
+<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl4.jpg"></a>
 
-<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl5.JPG">
-<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl5.JPG"></a>
+<a href="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl5.jpg">
+<img src="https://github.com/mikkaraavci/KeepItScreenn/blob/master/PNG/lvl5.jpg"></a>
   
 
   
